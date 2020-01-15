@@ -1,0 +1,31 @@
+Software Carpentry
+
+Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
+
+For more information and to sign up see the course page at rantahar.github.io/2020-03-19-Helsinki.
+
+Students at the University of Helsinki receive 1 credit. The course is assessed as Pass/Fail. The course is in English.
+
+The number of participants is restricted and participants are chosen in order of registration. Once the course is full, you can sign up to a waiting list in case of cancellations.
+
+
+Target Group
+
+The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
+
+You need to bring your own laptop with either Mac, Linux or Windows operating system and install a few specific software packages. Please check the list on the course page.
+
+
+Learning Outcomes
+
+Note that the syllabus is subject to change based on the outcome of the pre-workshop survey.
+
+The course will cover:
+ * The Unix Shell
+ * Automating repeated tasks
+ * Programming with Python
+ * Version Control using Git
+ * Common Software Design Issues
+
+The course starts with an introduction to the Unix Shell and automating repeated computing tasks. We will then learn to write short programs using the Python programming language and learn concepts common to all programming languages. Finally, we will learn to use version control to track our code, revert changes and publish using an open license.
+
