@@ -42,6 +42,7 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 {% endunless %}
 {% endif %}
 
+
 {% comment %}
 EVENTBRITE
 
@@ -122,6 +123,12 @@ This block displays the date and links to Google Calendar.
   {% include workshop_calendar.html %}
 </p>
 {% endif %}
+
+{% comment %}
+REGISTRATION
+{% endcomment %}
+
+<strong>Registration:</strong> You can register at <a href="https://indico.neic.no/event/113/registrations"> https://indico.neic.no/event/113/registrations</a>.
 
 {% comment %}
 SPECIAL REQUIREMENTS
