@@ -128,7 +128,7 @@ This block displays the date and links to Google Calendar.
 REGISTRATION
 {% endcomment %}
 
-<strong>Registration:</strong> You can register at <a href="https://indico.neic.no/event/113/registrations"> https://indico.neic.no/event/113/registrations</a>.
+<strong>Registration:</strong> Registration is unfortunately closed. You can sign up to a waiting list at <a href="https://indico.neic.no/event/113/registrations"> https://indico.neic.no/event/113/registrations</a>. You can also check out other Software Carpentry and related events at <a href="https://carpentries.org/upcoming_workshops/"> the Software Carpentry site</a>. Also check out the similar 3-day workshops organized by <a href="https://coderefinery.org/workshops/">CodeRefinery</a>.
 
 {% comment %}
 SPECIAL REQUIREMENTS
