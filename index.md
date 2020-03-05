@@ -425,6 +425,48 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<div id="HY">
+  <h3>Helsinki University Administrated Laptops</h3>
+  <p>
+  If you have a laptop administered by the University of Helsinki, you can use the Software Center to install the required applications.
+  </p>
+
+  <div>
+    <ul class="nav nav-tabs nav-justified" role="tablist">
+      <li role="presentation" class="active"><a data-os="windows" href="#hy-windows" aria-controls="Windows"   role="tab" data-toggle="tab">Windows</a></li>
+      <li role="presentation"><a data-os="macos" href="#hy-macos" aria-controls="MacOS" role="tab"   data-toggle="tab">MacOS</a></li>
+      <li role="presentation"><a data-os="linux" href="#hy-linux" aria-controls="Linux" role="tab"   data-toggle="tab">Linux</a></li>
+    </ul>
+    <div class="tab-content">
+      <article role="tabpanel" class="tab-pane active" id="hy-windows">
+      <p>
+        On Windows laptops, you will need to install two applications:
+        <ol>
+          <li> Git for Windows and </li>
+          <li> Anaconda. </li>
+        </ol>
+        Follow the instructions below when the installation wizard asks provides you with options.
+      </p>
+      </article>
+    </div>
+    <div class="tab-content">
+      <article role="tabpanel" class="tab-pane active" id="hy-macos">
+      <p>
+        On MacOS, you can install Git through the App store.
+        <b> Please contact the Helpdesk (helpdesk@helsinki.fi) to install Anaconda. </b>
+      </p>
+      </article>
+    </div>
+    <div class="tab-content">
+      <article role="tabpanel" class="tab-pane active" id="hy-linux">
+      <p>
+        Cubbli Linux comes with all required software pre-installed.
+      </p>
+      </article>
+    </div>
+  </div>
+</div>
+
 
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
   <h3>The Bash Shell</h3>
