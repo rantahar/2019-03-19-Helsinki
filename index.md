@@ -17,6 +17,17 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+<h1> CANCELED </h1>
+
+Due to the ongoing COVID-19 epidemic, we have decided to cancel the Software Carpentry event on March 19-20 2020. We apologize for any inconvenience caused. 
+
+While we plan to run the event at a later date, we will decide on an exact time once the situation becomes more clear. 
+
+In the meantime, all the materials for the course are available online and we encourage you to take the extra time to study them. If you do decide to self-study, the etherpad at <a href="{{site.swc_pages}}/shell-novice/reference">https://pad.carpentries.org/adguAnQVNp-YGucJhiBH</a> will remain open for you to collaborate.
+
+Jarno will be available for questions on the etherpad on Thursday March 19th and the preceding days.
+
+
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
@@ -804,8 +815,5 @@ please preview your site before committing, and make sure to run
   </p>
   {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
-
-
-
 
 
