@@ -23,7 +23,7 @@ Due to the ongoing COVID-19 epidemic, we have decided to cancel the Software Car
 
 While we plan to run the event at a later date, we will decide on an exact time once the situation becomes more clear. 
 
-In the meantime, all the materials for the course are available online and we encourage you to take the extra time to study them. If you do decide to self-study, the etherpad at <a href="{{site.swc_pages}}/shell-novice/reference">https://pad.carpentries.org/adguAnQVNp-YGucJhiBH</a> will remain open for you to collaborate.
+In the meantime, all the materials for the course are available online and we encourage you to take the extra time to study them. If you do decide to self-study, the etherpad at <a href="https://pad.carpentries.org/adguAnQVNp-YGucJhiBH">https://pad.carpentries.org/adguAnQVNp-YGucJhiBH</a> will remain open for you to collaborate.
 
 Jarno will be available for questions on the etherpad on Thursday March 19th and the preceding days.
 
